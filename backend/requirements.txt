@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+asyncpg
+aiosqlite
+pydantic-settings
+python-dotenv
+pyjwt
+stripe
+passlib[bcrypt]
+cryptography
+beautifulsoup4
+python-multipart

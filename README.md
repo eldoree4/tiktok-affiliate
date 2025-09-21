@@ -24,9 +24,4 @@ Before using TikTok Kit v2.2, ensure you have the following:
 - **Internet Connection**: Required for API calls and OAuth authentication.
 - **Termux (Optional)**: For running on Android devices.
 
-## Installation
 
-1. **Clone or Download the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd tiktok-kit
